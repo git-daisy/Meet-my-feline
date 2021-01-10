@@ -1,0 +1,19 @@
+
+  h1 {
+    color: rebeccapurple; 
+    text-align: center;
+  }
+
+  h2 { 
+    font-style: gorgia; 
+    text-align: center;
+  }
+
+  p {
+    font-family: gorgia; 
+  }
+
+  ul {
+  font-size: 20px;
+  line-height: 30px;
+}
