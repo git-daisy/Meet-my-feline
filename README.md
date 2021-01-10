@@ -13,7 +13,7 @@
 I built this website to demonstrate the new skills I learned in class this week, being my first time creating a webpage, I struggled a bit! Excited to see how I can improve my webage over time.
 
 #### Descrition : 
-This project includes 1 .html file, 4 .jpeg subfolders to reference and utilizes different html and css elements to create my webpage, which is simply a way to show off my cat. 
+This project includes 1 .html file, 4 .jpeg subfolders to reference and utilizes different html and css elements to create my webpage, which is simply a way to show off my cat. I plan to add new elements to this page over time as I learn more at Epicodus. 
 
 
 ## Download to View 
@@ -22,9 +22,6 @@ This project includes 1 .html file, 4 .jpeg subfolders to reference and utilizes
 * (3). Select and right-click "hugo.html"
 * (4). Select "Open With" in the context menu, use any internet browswer
 
-## Roadmap for self
-
-I plan to update my page as I progress at Epicodus!
 
 ## Licensing 
 
